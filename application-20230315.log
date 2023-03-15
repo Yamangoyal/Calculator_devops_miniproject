@@ -1,1 +1,8 @@
 2023-03-15 18:09:47.102 [main] INFO  org.example.Main - Started Calculator Application
+2023-03-15 18:10:06.436 [main] INFO  org.example.Main - Started Calculator Application
+2023-03-15 18:10:11.145 [main] INFO  org.example.Main - Operation: SQUARE ROOT
+2023-03-15 18:10:15.095 [main] INFO  org.example.Main - Number entered: 4.0
+2023-03-15 18:10:15.101 [main] INFO  org.example.Main - Got result: 2.0
+2023-03-15 18:16:22.476 [main] INFO  org.example.Main - Operation: SQUARE ROOT
+2023-03-15 18:16:26.904 [main] INFO  org.example.Main - Number entered: 144.0
+2023-03-15 18:16:26.904 [main] INFO  org.example.Main - Got result: 12.0
